@@ -1,4 +1,4 @@
-# Distance-Sensor-measurement-
+# Distance-Sensor-measurement(sharp 0A41sk f 54)
 
 ## Problem Defination : 
  Make measurements and calculate sensor characteristics!!!In this assignment, we are assuming that you are using a simple distance sensor (having a range 4-30 cm)
