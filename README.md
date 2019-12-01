@@ -6,11 +6,11 @@ Set the (distance) sensor from a known distance to an object. Measure the distan
 
 ## Once you collected the measurements data, I am calculatng:
 
-arithmetic mean 
-median
-distribution 
-variance 
-standard deviation 
+arithmetic mean,
+median,
+distribution, 
+variance, 
+standard deviation, 
 trueness ("accuracy") 
 
   
